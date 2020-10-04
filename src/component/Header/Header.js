@@ -5,7 +5,7 @@ const Header = () => {
     return (
         <div className="header">
             <nav>
-                {/* <a href="/home">Home</a> */}
+                <a href="/home">Home</a>
             </nav>
         </div>
     );
